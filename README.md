@@ -1,3 +1,4 @@
+Nathan Dane:
 # Aquarius
 ## TV Playout Controller for OBS
 
@@ -10,3 +11,6 @@ Listings_creator will try to fill time between episodes with a clock, ident, tex
 **Disclaimer: the software is offered completely as-is, with no warranty of any kind. I will no longer be offering support or assistance on this project, if you want to use it you must figure it out from the resources provided here.**
 
 If you do decide to do something cool with this design, please consider posting photos of it to Bluesky and tagging "@nmsni.co.uk", I would love to see it!
+
+Max de Vos:
+Added easier to use episode_listing_creator.py and a tool to change nmptv.json easier.
